@@ -858,7 +858,7 @@ var o = {
 };
 
 for (let k in o) {
-    conosle.log(l);
+    conosle.log(k);
 }
 
 /*
